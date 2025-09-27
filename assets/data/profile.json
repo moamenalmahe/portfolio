@@ -1,0 +1,15 @@
+{
+  "username": "moamenalmahe",
+  "name": "moamen",
+  "bio": "i do my best to be the best",
+  "avatar_url": "https://avatars.githubusercontent.com/u/135075203?v=4",
+  "github_url": "https://github.com/moamenalmahe",
+  "website": "https://github.com/moamenalmahe",
+  "location": "6th of October City, Giza Governorate, Egypt",
+  "updated": "2025-09-27",
+  "github_token": "",
+  "repository_images": {
+    "_default": "./assets/images/project-1.jpg",
+    "_pattern": "./assets/images/projects/{repo_name}.jpg"
+  }
+}
